@@ -12,11 +12,11 @@ Each puzzle is organized in its own folder, for example:
 
 ```text
 Petroleum engineering-themed crossword puzzle/
-├── Petroleum engineering-themed crossword puzzle #1/
+├── 001/
 │ ├── Petroleum engineering-themed crossword puzzle #1.pdf
 │ ├── Solution for Petroleum engineering-themed crossword puzzle #1.pdf
 │ └── README.md
-├── Petroleum engineering-themed crossword puzzle #2/
+├── 002/
 │ └── ...
 └── README.md
 ```
