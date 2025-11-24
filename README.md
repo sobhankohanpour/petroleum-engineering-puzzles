@@ -1,5 +1,15 @@
 # Petroleum Engineering-themed Crossword Puzzles 🛢️
 
+![Last Commit](https://img.shields.io/github/last-commit/sobhankohanpour/petroleum-engineering-puzzles)
+![Issues](https://img.shields.io/github/issues/sobhankohanpour/petroleum-engineering-puzzles)
+![Pull Requests](https://img.shields.io/github/issues-pr/sobhankohanpour/petroleum-engineering-puzzles)
+
+![Repo Size](https://img.shields.io/github/repo-size/sobhankohanpour/petroleum-engineering-puzzles)
+![Code Size](https://img.shields.io/github/languages/code-size/sobhankohanpour/petroleum-engineering-puzzles)
+![Contributors](https://img.shields.io/github/contributors/sobhankohanpour/petroleum-engineering-puzzles)
+![Forks](https://img.shields.io/github/forks/sobhankohanpour/petroleum-engineering-puzzles)
+![GitHub Stars](https://img.shields.io/github/stars/sobhankohanpour/petroleum-engineering-puzzles)
+
 Welcome to the **Petroleum Engineering-themed Crossword Puzzle** repository! This collection features engaging and educational crossword puzzles focused on **petroleum engineering**, including topics such as digital oilfields, drilling, production, reservoir management, and other aspects of the petroleum industry.
 
 All puzzles are carefully designed to challenge your knowledge while providing a fun way to learn about the field.
